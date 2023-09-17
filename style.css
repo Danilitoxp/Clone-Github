@@ -1,14 +1,14 @@
 :root {
     /** Colors **/
-    --cor-de-fundo: #ffffff;
-    --cor-cinza-1: #f6f8fa;
-    --cor-cinza-2: #d8dee4;
-    --cor-de-texto-1: #101010;
+    --cor-de-fundo: #0d1117;
+    --cor-cinza-1: #161b22;
+    --cor-cinza-2: #21262d;
+    --cor-de-texto-1: #FFFFFf;
     --cor-de-texto-2: #ffffff;
-    --cor-de-texto-3: #5c5c5c;
-    --cor-de-link: #0061cf;
+    --cor-de-texto-3: #878787;
+    --cor-de-link: #0077ff;
     --cor-do-botao: #238636;
-    --cor-do-botao-hover: #257e35;
+    --cor-do-botao-hover: #22b13c;
 }
 
 * {
