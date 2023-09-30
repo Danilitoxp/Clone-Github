@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Clone-Github</h1>
 
 <p align="center">
