@@ -16,7 +16,7 @@
 
 Projeto do clone do Login do GitHub. criado como treinamento para aprimorar minhas habilidades em HTML e CSS.
 
-- [Acesse o projeto](clone-github-one.vercel.app)
+- [Acesse o projeto](https://clone-github-one.vercel.app/)
 
 ## 🚀 Tecnologias
 
